@@ -1,11 +1,4 @@
-# Laravel Simple eCommerce app
-
-[![Front view](https://s18.postimg.cc/970pva44p/image.png)](https://postimg.cc/image/72gcu72hx/)
-
-[![Dashboard](https://s18.postimg.cc/5andzjqxl/image.png)](https://postimg.cc/image/fxh74yz2t/)
-
-[![Adding product & form validation](https://s18.postimg.cc/sovdbi3q1/image.png)](https://postimg.cc/image/pi0trvj9x/)
-
+# Laravel Simple eCommerce
 
 ## About Laravel
 
